@@ -1,0 +1,649 @@
+
+body {
+  color: #40514E;
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+/* Navigation Bar */
+
+.btn2 {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 10px;
+   line-height: 10px;
+   color: yellow;
+   font-family: Road Rage;
+   width: 249px;
+   font-size: 60px;
+   font-weight: 900;
+   padding: 28px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+
+/* Navigation Bar */
+
+.btn2 {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 10px;
+   line-height: 10px;
+   color: yellow;
+   font-family: Road Rage;
+   width: 249px;
+   font-size: 60px;
+   font-weight: 900;
+   padding: 28px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+
+
+/* Navigation Bar */
+
+.btn2 {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 10px;
+   line-height: 10px;
+   color: yellow;
+   font-family: Road Rage;
+   width: 249px;
+   font-size: 60px;
+   font-weight: 900;
+   padding: 28px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+
+
+
+
+.navbar {
+padding-bottom: 1.5rem;
+
+}
+
+.nav-item {
+padding: 0 10px;
+
+
+}
+
+.nav-link{
+font-size: 35px;
+
+}
+
+.navbar-brand {
+font-family: "Ubuntu";
+font-size: 2.5rem;
+font-weight: bold;
+padding-left: 12px;
+color:white;
+}
+
+
+
+
+/* TOP CONTAINER AREA */
+
+
+.top-container {
+  background-color: #E4F9F4;
+  position: relative;
+  padding-top: 100px;
+  margin: 10px;
+}
+
+.top-cloud {
+  size: 300px;
+  right: 300px;
+  top: 40px;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: auto;
+}
+
+.mountain {
+  width: 75%;
+}
+
+/* PICTURE OF COLORADO AREA */
+
+.headertruelove {
+
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 25px;
+  padding-bottom: 45px;
+}
+
+.picture {
+
+  padding-top: 60px;
+  height: 100%;
+  width: 100%;
+  position: static;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.textCOLORADO{
+  color:red;
+  padding: 350px;
+  font-family: Sacramento;
+  font-size:300px;
+}
+
+
+/* HELLO, I'M BILLY AREA */
+
+
+
+h1{
+font-size: 150px;
+margin: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+color: #66BFBF;
+}
+
+/* A PROGRAMMER WITH COOL INTEREST AREA AREA */
+
+
+h2{
+font-size: 50px;
+font-family: 'Montserrat', sans-serif;
+color: black;
+font-weight: bold;
+padding-bottom: 10px;
+}
+
+.pro{
+  text-decoration: underline;
+  color: red;
+
+}
+
+p{
+
+  line-height: 1.5;
+}
+
+/* MIDDLE CONTAINER AREA */
+
+.middle-container {
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 75px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/* EXPERIENCED PRINT AND DIGITAL DESIGNER - FOR HIRE -- AND I LOVE MOVIES... AREAS */
+
+.ahyoka{
+
+  font-family:Sacramento;
+  color:red;
+  font-size: 145px;
+}
+
+/* BILLY D PICTURE */
+
+
+.BillyD-img {
+width: 50%;
+
+}
+
+/* LET'S CLIMB THIS MOUNTAIN TOGETHER AREA */
+
+
+.climb {
+font-size: 80px;
+font-family: 'Montserrat', sans-serif;
+color: black;
+
+}
+
+.climb2 {
+font-size: 80px;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+color: yellow;
+
+}
+
+/* EXPERIENCED PRINT AND DIGITAL DESIGNER... AREA */
+
+.intro {
+font-size: 50px;
+text-align: left;
+padding-left: 40px;
+padding-right: 40px;
+
+
+}
+
+/* MY FAVORITE TEAMS CONTAINER AREA */
+
+.my-favorite-teams-header{
+  background-color: black;
+  position: relative;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/* MY FAVORITE TEAMS HEADER */
+
+.Headerteams {
+  font-size: 100px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #FFF;
+
+
+}
+
+/* STEELERS CONTAINER AREA */
+
+
+.favorite-steelers{
+
+    background-color: #BC815F;
+    color:white;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 75px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+/* PITTSBURGH STEELERS HEADER AREA */
+
+
+h5 {
+font-size: 100px;
+font-family: 'Allerta Stencil', sans-serif;
+color: black;
+
+}
+
+/* I HAVE BEEN A STEELERS FAN... AREA */
+
+
+.text-discription {
+  font-size: 50px;
+}
+
+/* TERRY BRADSHAW PICTURE */
+
+
+.terryb-img {
+  border-radius: 100%;
+  position: relative;
+  padding-top: 100px;
+  width:55%;
+
+}
+
+/* YANKEES CONTAINER AREA */
+
+
+.favorite-yanks{
+
+    background-color: grey;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 75px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+/* NEW YORK YANKEES HEADER AREA */
+
+h6 {
+font-size: 100px;
+font-family: 'Allerta Stencil', sans-serif;
+color: white;
+
+}
+
+
+/* THE YANKEES HAVE WON... AREA */
+
+
+.text-discription2 {
+  font-size: 50px;
+  color: white;
+}
+
+
+/* YANKEES NY LOGO AREA */
+
+
+.yankeeslogos-img {
+
+  width: 50%;
+  margin: 100px;
+
+}
+
+
+
+/* HORIZONTAL RULE AREA (2 TIMES ON THIS PAGE) */
+
+
+hr {
+
+  border: dotted black 6px;
+  border-bottom: none;
+  width: 24%;
+  margin: 100px auto;
+
+}
+
+
+/* IF YOU LOVE SPORTS AS MUCH AS I DO AREA */
+
+
+h3 {
+font-size: 50px;
+font-family: 'Montserrat', sans-serif;
+color: black;
+}
+
+/* LET'S GRAB A BEER.... AREA */
+
+
+.contact-message {
+  font-size: 45px;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 75px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/* CONTACT ME BUTTON AREA */
+
+
+.btn {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 13px;
+   line-height: 10px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 249px;
+   font-size: 40px;
+   font-weight: 900;
+   padding: 18px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+.btn:hover {
+   border: solid #ED3333 1px;
+   background: #811616;
+   background-image: -webkit-linear-gradient(top, #811616, #F63D3D);
+   background-image: -moz-linear-gradient(top, #811616, #F63D3D);
+   background-image: -ms-linear-gradient(top, #811616, #F63D3D);
+   background-image: -o-linear-gradient(top, #811616, #F63D3D);
+   background-image: -webkit-gradient(to bottom, #811616, #F63D3D);
+   -webkit-border-radius: 50px;
+   -moz-border-radius: 50px;
+   border-radius: 50px;
+   text-decoration: none;
+}
+
+
+/* BOTTOM CONTAINER AREA */
+
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  margin: 10px;
+
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+
+
+
+/* WEBSITE LINKS OR AREA */
+
+
+.footer-website {
+
+color: yellow;
+font-size: 50px;
+}
+
+.copyrite {
+
+  color:yellow;
+  font-size: 52px;
+  padding: 20px 0;
+}
+
+a:hover {
+  color:white;
+
+}
+
+/*FOR RETURN BACK TO ONLINE PORTFOLIO */
+
+.btn3 {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 15px;
+   line-height: 10px;
+   color: yellow;
+   font-family: Road Rage;
+   width: 75%;
+   font-size: 45px;
+   font-weight: 900;
+   padding: 28px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+
+
+
+/*resume css below
+
+
+body{
+    margin: 0px;
+}
+
+.container {
+
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+
+/*Nav Styles */
+
+
+.nav-wrapper{
+
+  display: flex;
+  justify-content: space-between;
+  padding: 38px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.left-side{
+
+  display: flex;
+}
+
+.nav-wrapper > .left-side > div {
+margin-right: 20px;
+font-size: 0.9em;
+
+}
+
+.nav-link-wrapper {
+
+height: 22px;
+border-bottom: 1px solid transparent;
+transition: border-bottom 0.5s;
+
+
+}
+
+.nav-link-wrapper a {
+
+    color:#8a8a8a;
+    text-decoration: none;
+    transition: color 0.5s;
+
+}
+
+.nav-link-wrapper:hover {
+
+    border-bottom: 1px solid black;
+}
+
+
+.nav-link-wrapper a:hover {
+
+color: black;
+
+}
+
+.holderHerbal{
+
+  font-size: 35px;
+  padding-top: 75px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: Montserrat;
+}
+
+/*Portfolio Styles */
+
+.footer5{
+
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+/* for mobile media query  but max/min width numbers may vary per devices... no set numbers...  */
+
+@media (max-width:600px){
+
+.footer-website{
+
+  font-size: 55px;
+
+}
+
+
+}
